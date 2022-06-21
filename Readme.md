@@ -1,0 +1,1 @@
+Hi, My name is Mihir and I've created this app as a part of my journey in Android Developoment. I stil have a long way to go and this is my start. I'm using this app to document and enhance my knowledge in this field by working on this project. I'll keep updating the app
